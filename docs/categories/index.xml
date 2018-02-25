@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BLOG</title>
-    <link>/categories/</link>
+    <link>https://isitlunchtimeyet.github.io/bleug/categories/</link>
     <description>Recent content in Categories on BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isitlunchtimeyet.github.io/bleug/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>/categories/code/</link>
+      <link>https://isitlunchtimeyet.github.io/bleug/categories/code/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>/categories/code/</guid>
+      <guid>https://isitlunchtimeyet.github.io/bleug/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/categories/design/</link>
+      <link>https://isitlunchtimeyet.github.io/bleug/categories/design/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/categories/design/</guid>
+      <guid>https://isitlunchtimeyet.github.io/bleug/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>/categories/photography/</link>
+      <link>https://isitlunchtimeyet.github.io/bleug/categories/photography/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>/categories/photography/</guid>
+      <guid>https://isitlunchtimeyet.github.io/bleug/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>/categories/travel/</link>
+      <link>https://isitlunchtimeyet.github.io/bleug/categories/travel/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/categories/travel/</guid>
+      <guid>https://isitlunchtimeyet.github.io/bleug/categories/travel/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,6 @@
 baseurl = "https://isitlunchtimeyet.github.io/bleug/"
 title = "BLOG"
-theme = "hugo-tracks-theme"
+theme = "tracks"
 publishDir="docs"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
