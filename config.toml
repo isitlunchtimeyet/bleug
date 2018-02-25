@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://isitlunchtimeyet.github.io/bleug/"
 title = "BLOG"
 theme = "tracks"
 publishDir="docs"
